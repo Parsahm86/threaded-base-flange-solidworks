@@ -6,7 +6,7 @@ This practice project includes the original SOLIDWORKS part, a STEP model, a tec
 
 ## Isometric Render
 
-![Threaded Base Flange Isometric View](4.Renders/Threaded%20Base%20Flange-isometric/Threaded%20Base%20Flange-isometric_Camera_Default%20Camera.jpg)
+![Threaded Base Flange Isometric View](RENDERS/Threaded%20Base%20Flange-isometric/Threaded%20Base%20Flange-isometric_Camera_Default%20Camera.jpg)
 
 ## Design Features
 
@@ -23,18 +23,18 @@ The model includes the following features:
 
 The half-section render highlights the internal passages, wall thicknesses, and threaded connections of the model.
 
-![Threaded Base Flange Half-Section View](4.Renders/Threaded%20Base%20Flange-halfCut/Threaded%20Base%20Flange-halfCut_Camera_SOLIDWORKS%20Viewport.jpg)
+![Threaded Base Flange Half-Section View](RENDERS/Threaded%20Base%20Flange-halfCut/Threaded%20Base%20Flange-halfCut_Camera_SOLIDWORKS%20Viewport.jpg)
 
 ## Additional Render
 
-![Threaded Base Flange SOLIDWORKS View](4.Renders/Threaded%20Base%20Flange-sldView/Threaded%20Base%20Flange-sldView_Camera_SOLIDWORKS%20Viewport.jpg)
+![Threaded Base Flange SOLIDWORKS View](RENDERS/Threaded%20Base%20Flange-sldView/Threaded%20Base%20Flange-sldView_Camera_SOLIDWORKS%20Viewport.jpg)
 
 ## Project Files
 
-- [SOLIDWORKS CAD File](1.CAD/)
-- [STEP Model](2.STEP/)
-- [Technical Drawing](3.Drawings/)
-- [Rendered Images](4.Renders/)
+- [SOLIDWORKS Part File](PARTS/)
+- [STEP Model](STEPS/)
+- [Technical Drawing](DRAWINGS/)
+- [Rendered Images](RENDERS/)
 
 ## File Formats
 
